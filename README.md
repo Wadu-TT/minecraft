@@ -23,4 +23,5 @@ An advanced AI system that simulates human-like emotional behavior for Minecraft
 
 1. Clone the repository:
 2. activate the virtual environment if needed by typing the following in terminal:
+
 .venv\Scripts\activate
